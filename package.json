@@ -1,0 +1,17 @@
+{
+  "name": "libraryAndExternals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "underscore": "^1.8.3",
+    "webpack": "^1.13.1"
+  }
+}
